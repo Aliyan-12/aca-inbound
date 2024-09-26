@@ -1,0 +1,8 @@
+{
+    "name": "codewave/aca-inbound",
+    "description": "Landing page for ACA Inbound.",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
